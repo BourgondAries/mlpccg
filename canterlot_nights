@@ -1,6 +1,6 @@
-# Collected:ID:Rarity:Name:Card Type:Power:Color:Cost:Ruirement Blue:Requirement Orange:Requirement Pink:Requirement Purple:Requirement White:Traits:Game Text:Flavor Text
+# 1,Collected:2,ID:3,Rarity:4,Name:5,Card Type:6,Power:7,Color:8,Cost:9,Requirement Blue:10,Requirement Pink:11,Requirement Purple:12,Requirement Orange:13,Requirement White:14,Requirement Yellow:15,Traits:16,Game Text:17,Flavor Text
 # *not available in Canterlot Nights product
-0:0:UR:Flutterbat:Troublemaker
+0:0:UR:Flutterbat:Troublemaker:5::1:0:0:0:0:0:0::When this card is uncovered, move it to another problem. At the start of your opponent's Troublemaker Phase, move this card to a Problem with a number of characters equal to or less than the number of characters at this card's Problem.:"Fluttershy, sweetness, please come down. And, do stop being a vampire bat." - Rarity
 
 # Mane Characters
 2:1:U:Rainbow Dash, Hanging Out:Mane Character
